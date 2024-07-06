@@ -19,7 +19,8 @@ A Python application that processes ZIP files to update the `pack_format` number
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/zip-processor.git
+    git clone https://github.com/wlegrand/Minecraft-mcmeta-changer.git
+
     cd zip-processor
     ```
 
