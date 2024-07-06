@@ -66,7 +66,7 @@ A Python application that processes ZIP files to update the `pack_format` number
     ```bash
     pyinstaller --onefile --windowed --distpath ./dist --workpath ./build src/main.py
     ```
-3. **Use the executable in the dist folder: dist/main.exe**
+3. ** Use the executable in the dist folder: dist/main.exe **
     ```
         main.exe
    ```
@@ -83,7 +83,7 @@ A Python application that processes ZIP files to update the `pack_format` number
     ```bash
     pyinstaller --onefile --windowed --distpath ./dist --workpath ./build src/main.py
     ```
-3. **Use the executable in the dist folder : dist/main.sh **
+3. **Use the executable in the dist folder : dist/main.sh**
     ```
         ./main.sh 
    ```
