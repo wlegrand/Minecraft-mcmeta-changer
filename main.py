@@ -4,7 +4,7 @@ import zipfile
 import os
 import json
 
-# Couleurs Catppuccin Mocha
+
 colors = {
     "base": "#1e1e2e",
     "mantle": "#181825",
